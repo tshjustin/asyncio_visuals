@@ -1,7 +1,5 @@
 
-### For Demo press Icon 
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-brightgreen)](https://tshjustin.github.io/asyncio_visuals/)
-
+### Press for Demo => [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-brightgreen)](https://tshjustin.github.io/asyncio_visuals/)
 
 1. npm run build transpiles TS -> JS and preps for prod
 
